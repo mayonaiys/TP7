@@ -1,7 +1,7 @@
 #ifndef TP7_POINT_H
 #define TP7_POINT_H
 
-//Test
+//Testtttt
 template<class T> class Point {
 private:
     T m_x;
