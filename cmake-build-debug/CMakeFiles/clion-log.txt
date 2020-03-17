@@ -1,0 +1,8 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/Remi/Documents/Ecole/CIR2/Informatique/C++/TP7
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  CXX_STANDARD is set to invalid value '20'
+
+
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Remi/Documents/Ecole/CIR2/Informatique/C++/TP7/cmake-build-debug

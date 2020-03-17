@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Remi/Documents/Ecole/CIR2/Informatique/C++/TP7/Point.h
+
+/mnt/c/Users/Remi/Documents/Ecole/CIR2/Informatique/C++/TP7/main.cpp
+iostream
+-
+Point.h
+/mnt/c/Users/Remi/Documents/Ecole/CIR2/Informatique/C++/TP7/Point.h
+vector
+-
+cctype
+-
+cstring
+-
+
